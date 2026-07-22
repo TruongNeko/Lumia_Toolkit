@@ -25,6 +25,6 @@ A lightweight CLI batch tool wrapper powered by **Thor2** (from Windows Device R
    ```text
    C:\Program Files (x86)\Microsoft Care Suite\Windows Device Recovery Tool\thor2.exe
 
-##😒 Secret
-1. **I still developing this stuff, so in releases there are two batch, those are prototype versions, which I upload just for fun!
-2. **There are Vietnamize version too if you are Vietnamese (TUNOIDONGXANHTHOMHUONGLUA 🗣️🔥🔥)
+😒 Secret
+1. I still developing this stuff, so in releases there are two batch, those are prototype versions, which I upload just for fun!
+2. There are Vietnamize version too if you are Vietnamese (TUNOIDONGXANHTHOMHUONGLUA 🗣️🔥🔥)
