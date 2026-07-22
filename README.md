@@ -24,3 +24,7 @@ A lightweight CLI batch tool wrapper powered by **Thor2** (from Windows Device R
 2. **Windows Device Recovery Tool (WDRT)** or `thor2.exe` installed at the default path:
    ```text
    C:\Program Files (x86)\Microsoft Care Suite\Windows Device Recovery Tool\thor2.exe
+
+##😒 Secret
+1. **I still developing this stuff, so in releases there are two batch, those are prototype versions, which I upload just for fun!
+2. **There are Vietnamize version too if you are Vietnamese (TUNOIDONGXANHTHOMHUONGLUA 🗣️🔥🔥)
