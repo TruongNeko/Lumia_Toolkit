@@ -14,7 +14,6 @@ A lightweight CLI batch tool wrapper powered by **Thor2** (from Windows Device R
 * 📋 **Deep Info Extraction:** Read IMEI, Partition Layout, Root Key Hash, and more in Flash Mode.
 * 🔄 **Device Control:** Soft reboot and mode-switching commands out of the box.
 * 🎨 **Enhanced UI:** ANSI color support for clean readability.
-* ⚡ **Stability Fixes:** Crash-free key listener handling with zero system beeps.
 
 ---
 
