@@ -20,7 +20,7 @@ A lightweight CLI batch tool wrapper powered by **Thor2** (from Windows Device R
 
 ## 🛠️ Prerequisites
 
-1. **OS:**From Windows 7 to Windows 10 / 11.
+1. OS: From Windows 7 to Windows 10 / 11.
 2. **Windows Device Recovery Tool (WDRT)** or `thor2.exe` installed at the default path:
    ```text
    C:\Program Files (x86)\Microsoft Care Suite\Windows Device Recovery Tool\thor2.exe
