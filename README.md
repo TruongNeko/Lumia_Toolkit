@@ -13,6 +13,7 @@ A lightweight CLI batch tool wrapper powered by **Thor2** (from Windows Device R
 * 🔍 **Connection Check:** Auto-detect connected Nokia/Microsoft Lumia devices.
 * 📋 **Deep Info Extraction:** Read IMEI, Partition Layout, Root Key Hash, and more in Flash Mode.
 * 🔄 **Device Control:** Soft reboot and mode-switching commands out of the box.
+* And more !
 
 ---
 
